@@ -1,39 +1,56 @@
 {
-    "name": "slack-clone",
-    "version": "0.1.0",
-    "private": true,
-    "dependencies": {
-      "@material-ui/core": "^4.11.0",
-      "@material-ui/icons": "^4.9.1",
-      "@testing-library/jest-dom": "^4.2.4",
-      "@testing-library/react": "^9.5.0",
-      "@testing-library/user-event": "^7.2.1",
-      "dotenv": "^8.2.0",
-      "firebase": "^7.23.0",
-      "react": "^16.13.1",
-      "react-dom": "^16.13.1",
-      "react-router-dom": "^5.2.0",
-      "react-scripts": "3.4.3"
-    },
-    "scripts": {
-      "start": "react-scripts start",
-      "build": "react-scripts build",
-      "test": "react-scripts test",
-      "eject": "react-scripts eject"
-    },
-    "eslintConfig": {
-      "extends": "react-app"
-    },
-    "browserslist": {
-      "production": [
-        ">0.2%",
-        "not dead",
-        "not op_mini all"
-      ],
-      "development": [
-        "last 1 chrome version",
-        "last 1 firefox version",
-        "last 1 safari version"
-      ]
-    }
+  "name": "slack-tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth/core": "^0.34.2",
+    "@convex-dev/auth": "^0.0.52",
+    "@emoji-mart/data": "^1.2.1",
+    "@emoji-mart/react": "^1.1.1",
+    "@radix-ui/react-avatar": "^1.1.0",
+    "@radix-ui/react-dialog": "^1.1.1",
+    "@radix-ui/react-dropdown-menu": "^2.1.1",
+    "@radix-ui/react-popover": "^1.1.1",
+    "@radix-ui/react-separator": "^1.1.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-tooltip": "^1.1.2",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "cmdk": "1.0.0",
+    "convex": "^1.14.1",
+    "date-fns": "^3.6.0",
+    "emoji-picker-react": "^4.11.1",
+    "jotai": "^2.9.3",
+    "jwt-decode": "^4.0.0",
+    "lucide-react": "^0.427.0",
+    "next": "14.2.5",
+    "next-themes": "^0.3.0",
+    "nuqs": "^1.17.8",
+    "quill": "^2.0.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "react-resizable-panels": "^2.1.0",
+    "react-use": "^17.5.1",
+    "react-verification-input": "^4.1.2",
+    "sonner": "^1.5.0",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
   }
+}
