@@ -1,6 +1,6 @@
 # SyncSpace
 
-![SyncSpace Logo](/public/readmeimage.png)
+![SyncSpace Logo](/public/readmeImage.png)
 
 ## Overview
 
