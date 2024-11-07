@@ -61,4 +61,4 @@ We appreciate your contributions and look forward to collaborating with the open
 - [Pranav Jarande](https://github.com/PRANAVJARANDE)
 - [Mahesh Suryawanshi](https://github.com/maheshcodes12)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
-- [Aditya Bharadwaaj](https://github.com/apelPi)
+- [Aditya Bharadwaj](https://github.com/apelPi)
