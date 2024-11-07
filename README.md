@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SyncSpace
 
-## Getting Started
+![SyncSpace Logo](/public/readmeimage.png)
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**SyncSpace** is a team collaboration tool designed to enhance communication and productivity. It provides real-time messaging, file sharing, and seamless integration for team collaboration, similar to Slack but with custom features tailored for your needs. Built with modern technologies, it offers an intuitive and responsive user interface, ensuring smooth interaction across devices.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technology Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js**: For building the frontend of the application
+- **Tailwind CSS**: For responsive, modern UI design
+- **Convex**: For backend data management and real-time synchronization
+- **Socket.io**: For real-time communication between users
+- **MongoDB**: For database management and storage
+- **JWT**: For secure authentication
+- **React**: For building the user interface with state management using React hooks
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
 
-## Learn More
+- **Real-Time Messaging**: Chat with teammates in real-time using rooms and direct messaging.
+- **File Sharing**: Share and manage files within team channels.
+- **Real-Time Collaboration**: Collaborate with team members in live rooms, sharing code or ideas.
+- **Secure Authentication**: User authentication and session management secured with JWT tokens.
+- **Channel Management**: Create and manage team channels for focused discussions.
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Here are some screenshots of **SyncSpace** in action:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Home Page
 
-## Deploy on Vercel
+![Home Page](/Screenshots/home.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Chat Room
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Chat Room](/Screenshots/chatroom.png)
+
+### Profile Overview
+
+![Profile](/Screenshots/profile.png)
+
+### Channel View
+
+![Channel View](/Screenshots/channel.png)
+
+## Contributing
+
+Contributions are always welcome! If you have suggestions for improvements, bug fixes, or new features, feel free to submit a pull request. To get started with contributing, follow the steps below:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a pull request
+
+We appreciate your contributions and look forward to collaborating with the open-source community!
+
+## Authors
+
+- [Pranav Jarande](https://github.com/PRANAVJARANDE)
+- [Mahesh Suryawanshi](https://github.com/maheshcodes12)
+- [Palash Chitnavis](https://github.com/PalashChitnavis)
+- [Aditya Bharadwaaj](https://github.com/apelPi)
