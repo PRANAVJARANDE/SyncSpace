@@ -2,6 +2,10 @@
 
 ![SyncSpace Logo](/public/readmeImage.png)
 
+## Live Demo
+
+[**SyncSpace**](https://syncspace-vercel.vercel.app/)
+
 ## Overview
 
 **SyncSpace** is a team collaboration tool designed to enhance communication and productivity. It provides real-time messaging, file sharing, and seamless integration for team collaboration, similar to Slack but with custom features tailored for your needs. Built with modern technologies, it offers an intuitive and responsive user interface, ensuring smooth interaction across devices.
@@ -12,7 +16,6 @@
 - **Tailwind CSS**: For responsive, modern UI design
 - **Convex**: For backend data management and real-time synchronization
 - **Socket.io**: For real-time communication between users
-- **MongoDB**: For database management and storage
 - **JWT**: For secure authentication
 - **React**: For building the user interface with state management using React hooks
 
@@ -30,19 +33,11 @@ Here are some screenshots of **SyncSpace** in action:
 
 ### Home Page
 
-![Home Page](/Screenshots/home.png)
-
-### Chat Room
-
-![Chat Room](/Screenshots/chatroom.png)
-
-### Profile Overview
-
-![Profile](/Screenshots/profile.png)
+![Home Page](/public/ss1.png)
 
 ### Channel View
 
-![Channel View](/Screenshots/channel.png)
+![Chat Room](/public/ss2.png)
 
 ## Contributing
 
@@ -61,4 +56,4 @@ We appreciate your contributions and look forward to collaborating with the open
 - [Pranav Jarande](https://github.com/PRANAVJARANDE)
 - [Mahesh Suryawanshi](https://github.com/maheshcodes12)
 - [Palash Chitnavis](https://github.com/PalashChitnavis)
-- [Aditya Bharadwaj](https://github.com/apelPi)
+- [Aditya Bharadwaaj](https://github.com/apelPi)
