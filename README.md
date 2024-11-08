@@ -6,6 +6,9 @@
 
 [**SyncSpace**](https://syncspace-vercel.vercel.app/)
 
+## Presentation
+[**Canva**](https://www.canva.com/design/DAGV0KWrXcs/vbSPl3tAiLesJoSTs9kg0Q/edit)
+
 ## Overview
 
 **SyncSpace** is a team collaboration tool designed to enhance communication and productivity. It provides real-time messaging, file sharing, and seamless integration for team collaboration, similar to Slack but with custom features tailored for your needs. Built with modern technologies, it offers an intuitive and responsive user interface, ensuring smooth interaction across devices.
